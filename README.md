@@ -1,10 +1,10 @@
 # Billing_software_tkinter
 
 ## Table of Contents
--About Tkinter
--About MySQL
--Required Libraries
--Screenshots
+- About Tkinter
+- About MySQL
+- Required Libraries
+- Screenshots
 
 
 ## About Tkinter
@@ -32,7 +32,7 @@ pip install mysql-connector-python
 ```
 
 ## Required libraries
--Pandas
--Numpy
--Tkinter
--mysql-connector-python
+- Pandas
+- Numpy
+- Tkinter
+- mysql-connector-python
