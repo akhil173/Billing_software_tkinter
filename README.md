@@ -39,4 +39,11 @@ pip install mysql-connector-python
 - mysql-connector-python
 
 ## Screenshots
-![Screenshot](https://github.com/akhil173/Billing_software_tkinter/tree/main/images/Screenshot%202022-06-07%2016.45.18.png)
+![Screenshot 2022-06-07 16 45 18](https://user-images.githubusercontent.com/73926989/172369873-680205bf-c9ae-4797-ac48-bc7bf008e1f1.png)
+
+![Screenshot 2022-06-07 16 45 32](https://user-images.githubusercontent.com/73926989/172369930-80e663b6-fd9f-4d79-ba90-7425a86a907b.png)
+
+![Screenshot 2022-06-07 16 45 48](https://user-images.githubusercontent.com/73926989/172369962-c725949a-c167-4bf3-8df2-dfbfb57ada4e.png)
+
+
+
