@@ -17,6 +17,7 @@ Tkinter supports a range of Tcl/Tk versions, built either with or without thread
 Tkinter is not a thin wrapper, but adds a fair amount of its own logic to make the experience more pythonic. This documentation will concentrate on these additions and changes, and refer to the official Tcl/Tk documentation for details that are unchanged.
 
 Reference to Tkinter docs : - http://tkdocs.com/
+
 Reference to python documentation of Tkinter : - https://docs.python.org/3/library/tkinter.html
 
 
