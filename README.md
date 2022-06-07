@@ -37,3 +37,6 @@ pip install mysql-connector-python
 - Numpy
 - Tkinter
 - mysql-connector-python
+
+## Screenshots
+![Screenshot](https://github.com/akhil173/Billing_software_tkinter/tree/main/images/Screenshot%202022-06-07%2016.45.18.png)
